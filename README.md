@@ -1,2 +1,27 @@
-# studeny_performance_analysis
-A data science project that analyzes and predicts student final exam scores using academic and lifestyle factors. The project includes data generation (250+ records), data preprocessing, feature encoding, and a machine learning model built using Linear Regression.
+# Student Performance Prediction
+
+## 📌 Overview
+This project analyzes student data and predicts final exam scores based on academic and lifestyle factors.
+
+## 📊 Dataset
+- 250 student records
+- Features include study hours, attendance, sleep, and parental education
+
+##  Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+
+##  Objective
+To understand factors affecting student performance and build a predictive model.
+
+##  Model
+- Linear Regression
+- R2 score used for evaluation
+
+##  Files
+- student_data.csv
+- student_analysis.ipynb
+- model.py
